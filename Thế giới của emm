@@ -1,12 +1,4 @@
-# Tặng Đức  Phát
-## _Một nhỏ muốn nói với anh_
 
-Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
-
-Mở file config.js sửa nội dung theo mẫu
-```
 const CONFIG = {
     introTitle: 'chào Đức Phát!',
     introDesc: `tui có cái này hỏi thì ông phải trả lời thiệt!',
@@ -23,5 +15,5 @@ const CONFIG = {
     btnAccept: 'Xong rùi thì vào accept lời mời kết bạn của tui đi :< nó chờ hơi lâu rùi đóoooo',
     messLink: 'https://www.facebook.com/huongnhi.caonguyen/' 
 }
-```
+
 
