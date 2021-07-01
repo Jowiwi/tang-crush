@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không hề',
     question:'Vậy sao không quay lại với tui :< ',
     btnReply: 'Gửi cho Nhi',
-    reply: 'Một số lí do không nói được',
+    reply: 'Một số lí do không nói đượcccccccccccc',
     mess: 'Tình cảm của mình đặc biệt! Tui còn yêu ông nhiềuuuu :<',
     messDesc: 'Quay lại với tui nhaaa :( tui biết mình sai rồiii',
     btnAccept: 'Xong rùi thì chấp nhận lời mời kết bạn của tui đi T.T nó đợi ông hơi lâu rùi đóooo',
