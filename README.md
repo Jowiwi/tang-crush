@@ -1,6 +1,7 @@
 # Tặng Đức Phát
 ## _Một điều nho nhỏ mún nói_
 
+
 const CONFIG = {
     introTitle: 'chào Đức Phát!',
     introDesc: 'tui có cái này muốn hỏi, ông trả lời thiệt nghen',
