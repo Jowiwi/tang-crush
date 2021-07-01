@@ -1,5 +1,5 @@
-# Tặng anh người yêu
-## _Một điều nho nhỏ muốn nói với anh_
+# Tặng Đức  Phát
+## _Một nhỏ muốn nói với anh_
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
@@ -8,20 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Anhh à!',
-    introDesc: `Em có điều này muốn hỏi anh phải trả lời thật lòng đấy nhá`,
-    btnIntro: 'hihi',
-    title: 'Anh yêu em phải hongg nào 😝',
-    desc: 'Nếu anh hong trả lời mà thoát ra là chồng em ruii đó nha ',
-    btnYes: 'Vẫn cứ là yêu em <33',
-    btnNo: 'Không, emm à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
-    btnReply: 'Gửi cho em <3',
-    reply: 'Tại vì em là công chúa của anh <33333333',
-    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Mãi yêuuu anhh❤ thương lắm đooóo.',
-    btnAccept: 'hunn nè hunn nè<3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'chào Đức Phát!',
+    introDesc: `tui có cái này hỏi thì ông phải trả lời thiệt!',
+    btnIntro: ':<',
+    title: 'Phát còn yêu Nhi phải không!!!',
+    desc: 'Nếu ông hông trả lời mà thoát ra là chồng tui á nghen ',
+    btnYes: 'Vẫn còn, không quênnn',
+    btnNo: 'Không hề',
+    question:'Tại sao còn yêu tui :3',
+    btnReply: 'Gửi cho Nhi ',
+    reply: 'Tại vì tình cảm của mình đặc biệt!!!!',
+    mess: 'Em cũng nghĩ như vậy :<. Em còn yêu anh nhiều nhiềuu',
+    messDesc: 'Quay lại với tui nhaaa :( tui biết mình sai rồiiii.',
+    btnAccept: 'Xong rùi thì vào accept lời mời kết bạn của tui đi :< nó chờ hơi lâu rùi đóoooo',
+    messLink: 'https://www.facebook.com/huongnhi.caonguyen/' 
 }
 ```
 
